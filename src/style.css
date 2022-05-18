@@ -1,0 +1,27 @@
+body {
+  background: #f4da9b;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation-link {
+  padding: 10px;
+}
+
+img {
+  display: block;
+  border-radius: 8px;
+  max-width: 100%;
+  margin: 20px auto;
+}
